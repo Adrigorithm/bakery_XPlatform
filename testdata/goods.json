@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Brown bread",
+        "imageUri": "assets/images/breadBrown.png",
+        "price": 0.01
+    },
+    {
+        "id": 1,
+        "name": "Pumpkin & Nut bread",
+        "imageUri": "assets/images/breadPumpkinNut.png",
+        "price": 0.01
+    },
+    {
+        "id": 2,
+        "name": "Raisin bread",
+        "imageUri": "assets/images/breadRaisinWhite.png",
+        "price": 0.01
+    },
+    {
+        "id": 3,
+        "name": "White bread",
+        "imageUri": "assets/images/breadWhite.png",
+        "price": 0.01
+    }
+]
